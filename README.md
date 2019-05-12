@@ -178,7 +178,7 @@ In the above code we have put a layer of GestureDetector, and then use the onTap
 
 > 在上面的代码中我们已经套上了一层GestureDetector，然后通过onTap回调来处理点击事件，这里再进一步，再加上拖动效果。
 
-![](/Users/ditclear/Desktop/flutter-ui-challenges/JoinUs/drag.gif)
+![](drag.gif)
 
 The vertical gesture monitoring can be handled by `onVerticalDragEnd`. According to the returned `DragUpdateDetails` parameter, the sliding distance can be obtained. We can change the offset according to it.
 
@@ -274,7 +274,7 @@ If you have completed one of these challenges, congratulations, if you want to s
 
 > 如果你完成了其中一个挑战，恭喜你，如果你想提交并加入我们，那么可以在 [JoinUs](https://github.com/flutter-ui-challenges/JoinUs)中提Issue，格式如下：
 
-![](https://user-gold-cdn.xitu.io/2019/5/12/16aaa53c06635778?w=1240&h=424&f=png&s=130030)
+![](issue.png)
 
 
 
