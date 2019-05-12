@@ -22,7 +22,22 @@ Flutter 是 Google 用以帮助开发者在 ~~iOS 和 Android 两个平台~~（�
 
 **4.** [出售她/他的作品](https://www.uplabs.com/sell)(主题，模板，图标等)。
 
+![](https://user-gold-cdn.xitu.io/2019/5/13/16aacd12d0778ad2?w=2542&h=1440&f=png&s=1203401)
 
+Uplabs上有很多免费的设计图，开发人员可以选取其中一个，比如说Google maps。
+![](https://user-gold-cdn.xitu.io/2019/5/13/16aacd51e6046ce9?w=1812&h=1502&f=png&s=909835)
+
+可以看到右边有**xd**的图标，表示该项目下载下来之后需要用Adobe XD 打开，当然也支持sketch、PS、Figma等等。
+
+![](https://user-gold-cdn.xitu.io/2019/5/13/16aacda5ed24b6a8?w=2680&h=1642&f=png&s=1503679)
+
+打开之后，点击右上角的预览按钮能够预览原型交互，对于实现交互细节非常重要。
+
+![](https://gph.to/2Q8EEjT)
+
+你还可以将设计稿通过插件(比如蓝湖XD)导出到蓝湖平台，相当于一个免费的UI大师就位了。
+
+![](https://user-gold-cdn.xitu.io/2019/5/13/16aace0c77882b65?w=1712&h=1092&f=png&s=786996)
 
 总的来说，对于Flutter开发者而言，这里就是一座宝库。
 

@@ -22,6 +22,19 @@ on Up, every designer and developer can:
 
 **4.** [Sell her/his work](https://www.uplabs.com/sell) (themes, templates, icons, etc).
 
+![](https://user-gold-cdn.xitu.io/2019/5/13/16aacd12d0778ad2?w=2542&h=1440&f=png&s=1203401)
+
+There are many free designs on Uplabs, and developers can choose one of them, such as Google maps.
+![](https://user-gold-cdn.xitu.io/2019/5/13/16aacd51e6046ce9?w=1812&h=1502&f=png&s=909835)
+
+You can see the icon with **xd** on the right, which means that the project needs to be opened with Adobe XD after downloading. Of course, it also supports sketch, PS, Figma and so on.
+
+![](https://user-gold-cdn.xitu.io/2019/5/13/16aacda5ed24b6a8?w=2680&h=1642&f=png&s=1503679)
+
+Once opened, click on the preview button in the top right corner to preview the prototype interaction, which is important to achieve the interaction details.
+
+![](https://gph.to/2Q8EEjT)
+
 
 
 All in all, for Flutter developers, this is a treasure.
