@@ -33,7 +33,7 @@ You can see the icon with **xd** on the right, which means that the project need
 
 Once opened, click on the preview button in the top right corner to preview the prototype interaction, which is important to achieve the interaction details.
 
-![](https://gph.to/2Q8EEjT)
+![](ux.gif)
 
 
 
