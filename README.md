@@ -2,7 +2,7 @@
 
 Use Flutter💪 to implement the UI challenges on Uplabs, you can join us by implementing one of them. 
 
-> English Version | [中文版本](ReadME_CN.md)
+> English Version | [中文版本](README_CN.md)
 
 ### What is Flutter?
 
