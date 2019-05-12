@@ -136,7 +136,7 @@ Stack(
 
 ![](drag.gif)
 
-垂直方向的手势监听可以通过`onVerticalDragEnd`来处理，根据返回的`DragUpdateDetails`参数，可以获取的滑动距离，我们可以根据它来改变offset。
+垂直方向的手势监听可以通过`onVerticalDragUpdate`来处理，根据返回的`DragUpdateDetails`参数，可以获取的滑动距离，我们可以根据它来改变offset。
 
 ```dart
 onVerticalDragUpdate: (details) {

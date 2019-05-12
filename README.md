@@ -138,7 +138,7 @@ In the above code we have put a layer of GestureDetector, and then use the onTap
 
 ![](drag.gif)
 
-The vertical gesture monitoring can be handled by `onVerticalDragEnd`. According to the returned `DragUpdateDetails` parameter, the sliding distance can be obtained. We can change the offset according to it.
+The vertical gesture monitoring can be handled by `onVerticalDragUpdate`. According to the returned `DragUpdateDetails` parameter, the sliding distance can be obtained. We can change the offset according to it.
 
 ```dart
 onVerticalDragUpdate: (details) {
