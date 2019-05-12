@@ -15,9 +15,13 @@ Flutter is Google’s portable UI toolkit for building beautiful, native applica
 [Uplabs](https://www.uplabs.com/challenges) is a place for designers and developers to find, share and buy inspiration and resources to build apps and sites.
 
 on Up, every designer and developer can:
+
 **1.** Browse and find inspiration on our daily showcases for Material Design (Android), iOS & macOS, and Site.
+
 **2.** Search for specific UI elements and solutions;
+
 **3.** Share her/his work (design, library, snippet, app, site) as inspiration or as a freebie;
+
 **4.** [Sell her/his work](https://www.uplabs.com/sell) (themes, templates, icons, etc).
 
 
@@ -27,8 +31,11 @@ on Up, every designer and developer can:
 > 在这里，每个人都可以：
 >
 > **1.** 浏览并在我们的Material Design（Android），iOS和macOS以及Site的日常展示中找到灵感。
+>
 > **2.** 搜索特定的UI元素和解决方案;
+>
 > **3.** 分享她/他的作品（设计，图书馆，片段，应用程序，网站）作为灵感或免费赠品;
+>
 > **4.** [出售她/他的作品](https://www.uplabs.com/sell)(主题，模板，图标等)。
 
 
@@ -49,7 +56,7 @@ We can implement a simple transition effect
 
 > 我们可以来实现一个简单的过渡效果
 
-![](https://gph.to/2PW714q)
+![](tap.gif)
 
 **Question**: Now you can see from the UI diagram that the initial size of the square is 100, the starting position is centered, the distance is 100px from the bottom, the position after the transition is centered, the distance is 500px from the bottom, and the size is changed to 300, and the rounded corner is set to 30.
 
@@ -171,7 +178,7 @@ In the above code we have put a layer of GestureDetector, and then use the onTap
 
 > 在上面的代码中我们已经套上了一层GestureDetector，然后通过onTap回调来处理点击事件，这里再进一步，再加上拖动效果。
 
-![](https://gph.to/2Q1BHRZ)
+![](/Users/ditclear/Desktop/flutter-ui-challenges/JoinUs/drag.gif)
 
 The vertical gesture monitoring can be handled by `onVerticalDragEnd`. According to the returned `DragUpdateDetails` parameter, the sliding distance can be obtained. We can change the offset according to it.
 
